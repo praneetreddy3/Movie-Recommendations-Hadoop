@@ -1,0 +1,53 @@
+# Compiled Java classes
+*.class
+build/
+target/
+out/
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+gradle/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# Hadoop output directories
+output/
+_SUCCESS
+part-r-*
+part-m-*
+*.crc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Large data files (keep only samples)
+data/full/
+*.gz
+*.zip
