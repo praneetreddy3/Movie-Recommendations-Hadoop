@@ -170,7 +170,7 @@ The system generates personalized movie recommendations for each user with predi
 ## Author
 
 **Praneet Chinthala**
-- M.S. Data Analytics Engineering, George Mason University
+- B.Tech. Electronics and Computer Engineering, Mahindra University
 - Email: praneetreddy66@gmail.com
 - GitHub: [@praneetreddy3](https://github.com/praneetreddy3)
 
